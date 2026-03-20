@@ -16,8 +16,6 @@ It is recommended to use GitHub Codespaces to follow along with this course. Exp
 
 You can find more information on GitHub Codespaces possibilities and limitations [here](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces).
 
-_Note: You can get up to 60 hours of GitHub Codespaces usage per month for free. Find out more about pricing here [here](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)._
-
 ### Instructor
 
 Barbara Forbes
